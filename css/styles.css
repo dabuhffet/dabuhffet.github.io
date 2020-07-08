@@ -32,6 +32,10 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+  --main1:#000000;
+  --main2:#3d3d3d;
+  --main3:#848484;
+  --main4:#bbbbbb;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -6097,7 +6101,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #000000 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,

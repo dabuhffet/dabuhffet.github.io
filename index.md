@@ -31,6 +31,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">My Resume</a></li>
                 </ul>
             </div>
         </nav>
@@ -45,7 +46,7 @@
                         <span class="text-primary">Samarista</span>
                     </h1>
                     <div class="subheading mb-5">
-                        3 Don Mariano St., Zabarte Subd., Novaliches, Quezon City ·
+                        3 Don Mariano St., Zabarte Subdivision, Novaliches, Quezon City · +639155451080<br>
                         <a href="mailto:name@email.com">samaristarainier28@gmail.com </a> ·
                         <a href="mailto:name@email.com">rpsamarista@up.edu.ph</a>
                     </div>
@@ -83,8 +84,8 @@
                             <h3 class="mb-0">University of the Philippines - Los Ba&ntilde;os</h3>
                             <div class="subheading mb-3">Bachelor of Science in Computer Science</div>
                             <!-- <div>Computer Science - Web Development Track</div> -->
-                            <p>Former Treasurer of the CPS Triangle (Academic Organization)<br>
-                                Member of UP Euyeomuyeo (Sociocultural Organization)<br>
+                            <p>Former Treasurer of the CPS Triangle <br>- An academic organization consisting of BS Computer Science, Applied Physics, and Statistics students<br>
+                                Member of UP Euyeomuyeo<br>- A sociocultural organizaiton that promoted South Korean culture while still maintaining our very own nationalistic interests
                             </p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2015 - Present</span></div>
@@ -93,7 +94,23 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">St. Theresa's School of Novaliches</h3>
                             <div class="subheading mb-3"></div>
-                            <p>Kindergarten to 4th Year High School</p>
+                            <p>Kindergarten to 4th Year Highschool<br>
+                                Basketball Varsity 3rd Year to 4th Year Highschool
+                            </p>
+                            <ul class="fa-ul mb-0">
+                                <li>
+                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                                Athlete's Award (Basketball)
+                                </li>
+                                <li>
+                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                                Loyalty Award 
+                                </li>
+                                <li>
+                                <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                                UP Passer Award
+                                </li>
+                            </ul>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">2002 - March 2015</span></div>
                     </div>
@@ -194,6 +211,15 @@
                             Place - James Buchanan High School - Hackathon 2005
                         </li> -->
                     </ul>
+                </div>
+            </section>
+        </div>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">My Resume</h2>
+                    <iframe src="assets/Samarista_Resume.pdf" width="75%" height="700px"></iframe>
                 </div>
             </section>
         </div>
