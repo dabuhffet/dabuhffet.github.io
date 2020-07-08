@@ -30,8 +30,8 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">My Resume</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#resume">My Resume</a></li>
                 </ul>
             </div>
         </nav>
@@ -40,7 +40,7 @@
             <!-- About-->
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
-                    <h2> Website still under construction... </h2>
+                    <h2> Portfolio still under construction...  <div class="loader"></div> </h2>
                     <h1 class="mb-0">
                         Rainier John P.
                         <span class="text-primary">Samarista</span>
@@ -50,7 +50,9 @@
                         <a href="mailto:name@email.com">samaristarainier28@gmail.com </a> ·
                         <a href="mailto:name@email.com">rpsamarista@up.edu.ph</a>
                     </div>
-                    <p class="lead mb-5">I am a BS Computer Science student from the University of the Philippines Los Ba&ntilde;os. I have knowledge in various programming languages with proficiency in core Java and MySQL. I am a fast learner that can adapt to different working environments. lorem ipsum blablabla</p>
+                    <p class="lead mb-5"><!-- I am a BS Computer Science student from the University of the Philippines Los Ba&ntilde;os. I have knowledge in various programming languages with proficiency in core Java and MySQL. I am a fast learner that can adapt to different working environments. lorem ipsum blablabla</p> -->
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
                     <div class="social-icons">
                         <a class="social-icon" target="_blank" href="https://www.linkedin.com/in/rpsamarista/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" target="_blank" href="https://github.com/dabuhffet/"><i class="fab fa-github"></i></a>
@@ -83,7 +85,6 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">University of the Philippines - Los Ba&ntilde;os</h3>
                             <div class="subheading mb-3">Bachelor of Science in Computer Science</div>
-                            <!-- <div>Computer Science - Web Development Track</div> -->
                             <p>Former Treasurer of the CPS Triangle <br>- An academic organization consisting of BS Computer Science, Applied Physics, and Statistics students<br>
                                 Member of UP Euyeomuyeo<br>- A sociocultural organizaiton that promoted South Korean culture while still maintaining our very own nationalistic interests
                             </p>
@@ -129,10 +130,17 @@
                         <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
                         <li class="list-inline-item"><i class="fab fa-react"></i></li>
                         <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
                         <li class="list-inline-item"><i class="fab fa-npm"></i></li>
                         <li class="list-inline-item"><i class="fab fa-github"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-linux"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-linux"></i></li><br>
+                        <img src="assets/img/react.png" height="60px" width="85px" alt="React Native">
+                        <img src="assets/img/c.png" height="60px" width="60px">
+                        <img src="assets/img/mysql.png" height="60px" width="85px">
+                        <img src="assets/img/python.png" height="60px" width="120px">
+                        <img src="assets/img/androidstudio.png" height="60px" width="65px">
+                        <img src="assets/img/rstudio.png" height="60px" width="160px">
+                        <img src="assets/img/laravel-logo.png" height="80px" width="85px">
+                    </ul>
                     </ul>
                     <div class="subheading mb-3">Soft Skills</div>
                     <ul class="fa-ul mb-0">
@@ -168,55 +176,53 @@
             </section>
             <hr class="m-0" />
             <!-- Awards-->
-            <section class="resume-section" id="awards">
+            <section class="resume-section" id="projects">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Projects</h2>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Lorem ipsum dolor sit amet
-                        </li>
-                        <li><!-- 
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li> -->
-                    </ul>
+                    <p><h2 class="mb-5">Projects</h2>
+                    <div class="subheading mb-5">
+                        <p>·Preview some of my Projects here!<br>·Click on the images to enlarge preview <br>·Click on the <i class="fab fa-github"></i> next to the title to be directed to the project's github repository</p>
+                    </div>
+                        </p>
+                    
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Subset Sum Calculator <a target="_blank" href="https://github.com/dabuhffet/Subset-Sum-Solver"><i class="fab fa-github"></i></a></h3>
+                            <p>·A calculator that can be used to solve the "Subset Sum Problem" using an optimized Backtracking Algorithm<br>
+                                ·Subset Sum Problem is defined as "a problem where given a set with some integer elements and given another sum value, we have to find a subset of the given set whose sum is the same as the given sum value." -Tutorialspoint<br>
+                                ·The project was made using Java and NetBeans IDE.
+                            </p>
+                            <img class="myImg" src="assets/img/ssc.png" alt="Subset Sum Calculator" style="width:100%;max-width:200px">
+                            <br><br><br>
+                            <h3 class="mb-0">1-2-3 Pass! Multiplayer LAN <a target="_blank" href="https://github.com/dabuhffet/1-2-3-Pass-Multiplayer-LAN"><i class="fab fa-github"></i></a></h3>
+                            <p>·1-2-3 Pass is a card game where in your goal is to get a 4 of a kind in your hand. You do this by passing 1 card from your randomized hand as you count "1 2 3". The first person to get 4 matching cards and place their hand in the middle wins.<br>
+                                ·This is a take on the game with a LAN Multiplayer twist. Developed using Java, NetBeans, and IntelliJ<br>
+                            </p>
+                             <br>
+                            <img class="myImg" src="assets/img/123p1.png" alt="Initializing a Server" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/123p4.png" alt="Joining a game" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/123p3.png" alt="Winning/Finishing" style="width:100%;max-width:200px">
+                            <br><br><br>
+                            <h3 class="mb-0">Frontal Face Detection using IP Camera and Webcam <a target="_blank" href="https://github.com/dabuhffet/Face-Detection-IP-Cam"><i class="fab fa-github"></i></a></h3>
+                            <p>·Face Detection using Python's OpenCV library and haar cascade classifier. <br>·The program has two settings, one is to connect to a smartphone's IP Camera or to use the PC's webcam.<br>
+                            </p>
+                             <br>
+                            <img class="myImg" src="assets/img/fdetect.png" alt="Using a Webcam" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/fdetect2.png" alt="Using a smartphone with IP Camera" style="width:100%;max-width:200px">
+
+                            <!-- The Modal -->
+                            <div id="myModal" class="modal">
+                              <span class="close">&times;</span>
+                              <img class="modal-content" id="img01">
+                              <div id="caption"></div>
+                            </div>
+                        </div>
+                       
                 </div>
             </section>
         </div>
             <hr class="m-0" />
             <!-- Awards-->
-            <section class="resume-section" id="awards">
+            <section class="resume-section" id="resume">
                 <div class="resume-section-content">
                     <h2 class="mb-5">My Resume</h2>
                     <iframe src="assets/Samarista_Resume.pdf" width="75%" height="700px"></iframe>
