@@ -40,7 +40,7 @@
             <!-- About-->
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
-                    <h2> Portfolio still under construction...  <div class="loader"></div> </h2>
+                    <!-- <h2> Portfolio still under construction...  <div class="loader"></div> </h2> -->
                     <h1 class="mb-0">
                         Rainier John P.
                         <span class="text-primary">Samarista</span>
@@ -51,7 +51,7 @@
                         <a href="mailto:name@email.com">rpsamarista@up.edu.ph</a>
                     </div>
                     <p class="lead mb-5"><!-- I am a BS Computer Science student from the University of the Philippines Los Ba&ntilde;os. I have knowledge in various programming languages with proficiency in core Java and MySQL. I am a fast learner that can adapt to different working environments. lorem ipsum blablabla</p> -->
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        Good day! I am currently a BS Computer Science undergraduate student from the University of the Philippines Los Ba&ntilde;os. I have knowledge in various programming languages with proficiency in core Java and MySQL. I have a passion for problem solving and logical problems. I am currently looking to serve a company that can hone my technical skills and help me gain more experience, while giving my best efforts and services for the company's benefit.
                     </p>
                     <div class="social-icons">
                         <a class="social-icon" target="_blank" href="https://www.linkedin.com/in/rpsamarista/"><i class="fab fa-linkedin-in"></i></a>
@@ -70,7 +70,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Systems Development Division Intern</h3>
                             <div class="subheading mb-3">Philippine Statistics Authority</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>During my time with the Philippine Statistics Authority - SDD, I was asked to study the public domain software package that they used called CSPro, short for the Census and Survey Processing System. It is a software that helps you create forms of questionnaires and surveys. I learned CSPro by studying the previous projects of the Systems Development Division. I was also tasked to help in organizing and rearranging datasets using MS Excel and notepad. I learned how to use CSWeb as well. </p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">May 2018 - July 2018</span></div>
                     </div>
@@ -85,8 +85,8 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">University of the Philippines - Los Ba&ntilde;os</h3>
                             <div class="subheading mb-3">Bachelor of Science in Computer Science</div>
-                            <p>Former Treasurer of the CPS Triangle <br>- An academic organization consisting of BS Computer Science, Applied Physics, and Statistics students<br>
-                                Member of UP Euyeomuyeo<br>- A sociocultural organizaiton that promoted South Korean culture while still maintaining our very own nationalistic interests
+                            <p>·Former Treasurer of the CPS Triangle <br>- An academic organization consisting of BS Computer Science, Applied Physics, and Statistics students<br>
+                                ·Member of UP Euyeomuyeo<br>- A sociocultural organizaiton that promoted South Korean culture while still maintaining our very own nationalistic interests<br>·Helped in organizing multiple events like Alumni Homecomings and KPOP Conventions
                             </p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2015 - Present</span></div>
@@ -146,19 +146,23 @@
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            A quick learner and capable pupil
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Able to adjust well to the environment and to different people
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Critical thinker
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Ability to resolve conflict
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Ability to communicate with teammates in order to work together to produce a significantly greater outcome
                         </li>
                     </ul>
                 </div>
@@ -170,8 +174,8 @@
                     <h2 class="mb-5">Interests</h2>
                     <!-- <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p> -->
                     <!-- <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p> -->
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod elementum nisi quis eleifend quam adipiscing vitae. Vulputate ut pharetra sit amet aliquam id.</p>
-                    <p class="mb-0">In dictum non consectetur a erat nam. Placerat orci nulla pellentesque dignissim enim sit amet. Consectetur a erat nam at lectus urna. Ut consequat semper viverra nam libero justo laoreet. </p>
+                    <p>Apart from being a Computer Science student, I enjoy most of my time indoors playing video games and watching youtube videos. I am very passionate about the NBA and eSports. I also enjoy a broad spectrum of music. I watch anime and read a lot of manga.</p>
+                    <p class="mb-0">When outdoors, I mostly play basketball with my friends. Me and my friends also love to visit new places where we can eat and appreciate good food together. And lately we've been biking together as well.</p>
                 </div>
             </section>
             <hr class="m-0" />
@@ -208,7 +212,21 @@
                              <br>
                             <img class="myImg" src="assets/img/fdetect.png" alt="Using a Webcam" style="width:100%;max-width:200px">
                             <img class="myImg" src="assets/img/fdetect2.png" alt="Using a smartphone with IP Camera" style="width:100%;max-width:200px">
-
+                            <br><br><br><br><br><br><br>
+                            <div class="subheading mb-5">
+                                <p>The following projects are currently being worked on:</p>
+                            </div>
+                            <h3 class="mb-0">UPark </h3>
+                            <p>·UPark is my Thesis/SP project that got put on hold because of the pandemic.<br>·It is a parking application that is being made for the UPLB campus. Not for official use.<br>·Currently has log-in and sign-up authentication using Firebase Auth.
+                            </p>
+                            <img class="myImg" src="assets/img/upark1.png" alt="UPark Log-in screen" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/upark2.png" alt="UPark Sign-up screen" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/upark3.png" alt="UPark Home screen" style="width:100%;max-width:200px">
+                            <br><br><br>
+                             <h3 class="mb-0">Personal Laravel/PHP Project </h3>
+                            <p>·Currently, I am studying Laravel and PHP. It is a personal goal of mine to make a project using them. <br>I am still trying to come up with a project idea.
+                            </p>
+                            <br><br><br>
                             <!-- The Modal -->
                             <div id="myModal" class="modal">
                               <span class="close">&times;</span>
