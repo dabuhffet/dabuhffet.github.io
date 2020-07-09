@@ -51,7 +51,7 @@
                         <a href="mailto:name@email.com">rpsamarista@up.edu.ph</a>
                     </div>
                     <p class="lead mb-5"><!-- I am a BS Computer Science student from the University of the Philippines Los Ba&ntilde;os. I have knowledge in various programming languages with proficiency in core Java and MySQL. I am a fast learner that can adapt to different working environments. lorem ipsum blablabla</p> -->
-                        Good day! I am currently a BS Computer Science undergraduate student from the University of the Philippines Los Ba&ntilde;os. I have knowledge in various programming languages with proficiency in core Java and MySQL. I have a passion for problem solving and logical problems. I am currently looking to serve a company that can hone my technical skills and help me gain more experience, while giving my best efforts and services for the company's benefit.
+                        Good day! I am a graduating BS Computer Science student from the University of the Philippines Los Ba&ntilde;os, with only thesis units left until graduation. I have knowledge in various programming languages with proficiency in core Java and MySQL. I have a passion for problem solving and analytical thinking. I am currently looking to serve a company that can hone my technical skills and help me gain more experience, while giving my best efforts and services for the company's benefit.
                     </p>
                     <div class="social-icons">
                         <a class="social-icon" target="_blank" href="https://www.linkedin.com/in/rpsamarista/"><i class="fab fa-linkedin-in"></i></a>
