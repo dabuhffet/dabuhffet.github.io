@@ -214,7 +214,7 @@
                             <img class="myImg" src="assets/img/fdetect2.png" alt="Using a smartphone with IP Camera" style="width:100%;max-width:200px">
                             <br><br><br><br><br><br><br>
                             <div class="subheading mb-5">
-                                <p>The following projects are currently being worked on:</p>
+                                <p>The following projects are still currently in development:</p>
                             </div>
                             <h3 class="mb-0">UPark </h3>
                             <p>·UPark is my Thesis/SP project that got put on hold because of the pandemic.<br>·It is a parking application that is being made for the UPLB campus. Not for official use.<br>·Currently has log-in and sign-up authentication using Firebase Auth.
@@ -223,9 +223,17 @@
                             <img class="myImg" src="assets/img/upark2.png" alt="UPark Sign-up screen" style="width:100%;max-width:200px">
                             <img class="myImg" src="assets/img/upark3.png" alt="UPark Home screen" style="width:100%;max-width:200px">
                             <br><br><br>
-                             <h3 class="mb-0">Personal Laravel/PHP Project </h3>
-                            <p>·Currently, I am studying Laravel and PHP. It is a personal goal of mine to make a project using them. <br>I am still trying to come up with a project idea.
+                             <h3 class="mb-0"> UPark Database Manager </h3>
+                            <p>·Currently, I am studying Laravel. I am now developing a web application that will help me manage UPark, my future mobile application/thesis.<br>· Currently has authentication and CRUD.
                             </p>
+                            <img class="myImg" src="assets/img/uparkdb1.png" alt="UParkDB Log-in" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb2.png" alt="UParkDB Register" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb3.png" alt="UParkDB View Parking Lots" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb4.png" alt="UParkDB Data input" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb5.png" alt="UParkDB View data" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb6.png" alt="UParkDB Data input" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb7.png" alt="UParkDB View data" style="width:100%;max-width:200px">
+                            <img class="myImg" src="assets/img/uparkdb8.png" alt="UParkDB View data" style="width:100%;max-width:200px">
                             <br><br><br>
                             <!-- The Modal -->
                             <div id="myModal" class="modal">
