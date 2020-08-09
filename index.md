@@ -224,7 +224,7 @@
                             <img class="myImg" src="assets/img/upark3.png" alt="UPark Home screen" style="width:100%;max-width:200px">
                             <br><br><br>
                              <h3 class="mb-0"> UPark Database Manager </h3>
-                            <p>·Currently, I am studying Laravel. I am now developing a web application that will help me manage UPark, my future mobile application/thesis.<br>· Currently has authentication and CRUD.
+                            <p>·Currently, I am studying Laravel. I am now developing a web application that will help me manage UPark, my future mobile application/thesis.<br>·As of now, has authentication and CRUD.
                             </p>
                             <img class="myImg" src="assets/img/uparkdb1.png" alt="UParkDB Log-in" style="width:100%;max-width:200px">
                             <img class="myImg" src="assets/img/uparkdb2.png" alt="UParkDB Register" style="width:100%;max-width:200px">
